@@ -1,4 +1,4 @@
-# 👋 Olá! Pode me chamar de Gui
+# Olá! Pode me chamar de Gui :P
 
 Estudante de **Design** e desenvolvedor de bots para o Discord no tempo livre.
 
