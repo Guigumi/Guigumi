@@ -33,8 +33,6 @@ Estudante de **Design** e desenvolvedor de bots para o Discord no tempo livre.
 ---
 
 ## 🌐 Links & Recursos
-
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/project/632158313)
 [![Adicionar Bot](https://img.shields.io/badge/Adicionar_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1318004374123053167)
 
 ---
