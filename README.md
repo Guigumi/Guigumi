@@ -1,22 +1,22 @@
-# Olá! Pode me chamar de Gui :P
-Estudante de **Design** e desenvolvo um bot no meu tempo livre
-sou iniciante na área de design, atualmente fico criando identidades visuais para os meus próprios projetos.
+# Ayo, Gui aqui
+Estudo **Design** e no tempo livre desenvolvo um bot.
+Sou iniciante na área, então por enquanto fico criando identidades visuais pros meus próprios projetos.
 
 ---
 
 ## 🎨 Projetos de Design & Identidade Visual
 
 ### 👤 Ícones de Perfil
-| 🌙 Luna.js | ⚡ Light.js |
+| 🌙 Luna.js | 🖥️ Servidor |
 | :---: | :---: |
-| <img src="Assets/Discord-bot/Luna-Icon.png" alt="Luna perfil" width="280"/> <br> **Ícone de Perfil** | <img src="Assets/Discord-bot/Light-Icon.png" alt="Light perfil" width="280"/> <br> **Ícone de Perfil** |
+| <img src="Assets/Discord-bot/Luna-Icon.png" alt="Luna perfil" width="280"/> <br> **Ícone de Perfil** | <img src="Assets/Discord-bot/Server-Icon.png" alt="Servidor" width="280"/> <br> **Ícone do Servidor** |
 
 <br>
 
 ### 🖼️ Banners de Perfil
-| 🌙 Luna.js | ⚡ Light.js |
+| 🌙 Luna.js | 🖥️ Servidor |
 | :---: | :---: |
-| <img src="Assets/Discord-bot/Luna-Banner.png" alt="Luna Banner" width="320"/> <br> **Banner de Perfil** | <img src="Assets/Discord-bot/Light-Banner.png" alt="Light Banner" width="320"/> <br> **Banner de Perfil** |
+| <img src="Assets/Discord-bot/Luna-Banner.png" alt="Luna Banner" width="320"/> <br> **Banner de Perfil** | <img src="Assets/Discord-bot/Server-Banner.png" alt="Banner do Servidor" width="320"/> <br> **Banner do Servidor** |
 
 ---
 
@@ -33,4 +33,4 @@ sou iniciante na área de design, atualmente fico criando identidades visuais pa
 
 ---
 
-> ⚠️ **Nota:** O bot está em desenvolvimento contínuo. Funcionalidades, designs e comandos podem mudar a qualquer momento. Se encontrar algum problema, por favor reporte no servidor de suporte (o próprio bot possui o comando com o link direto).
+> ⚠️ **Nota:** O bot ainda tá em desenvolvimento, então funcionalidades e designs podem mudar a qualquer momento. Achou algum problema? Reporta no servidor de suporte (o bot tem um comando com o link direto).
