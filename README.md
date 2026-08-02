@@ -1,10 +1,6 @@
 # Olá! Pode me chamar de Gui :P
-
-Estudante de **Design** e desenvolvedor de bots para o Discord no tempo livre.
-
-> 🎨 Sou iniciante na área de design, atualmente fico criando identidades visuais para os meus próprios projetos.
-
-> 🤖 Também desenvolvo um **bot multifuncional para o Discord em TypeScript (Discord.js)**, que conta com sistemas de moderação, gestão, Roleplay (RP), música e muito mais, aproveitando os recursos mais recentes da API do Discord.
+Estudante de **Design** e desenvolvo um bot no meu tempo livre
+sou iniciante na área de design, atualmente fico criando identidades visuais para os meus próprios projetos.
 
 ---
 
