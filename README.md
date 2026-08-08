@@ -1,4 +1,4 @@
-# Ayo, Gui aqui
+# Ayoooooo 💚
 Estudo **Design** e no tempo livre desenvolvo um bot.
 Sou iniciante na área, então por enquanto fico criando identidades visuais pros meus próprios projetos.
 
