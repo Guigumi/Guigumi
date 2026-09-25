@@ -7,9 +7,9 @@ Sou iniciante e não sou programador de formação, então vou aprendendo na pr�
 ### ✦ Projetos
 
 - **Luna (Bot & Web):** Bot para Discord e painel web com comandos de música, moderação e utilitários, além dos cards que fiz em canvas.
-- **Input Overlay GG:** Plugin simples para OBS Studio em C++ que mostra teclas e cliques do mouse na tela.
-- **RPG System GG:** App em Electron para ajudar a organizar fichas e rolagens de RPG de mesa.
-- **Mods e scripts:** Pequenos utilitários para jogos (como mods de Minecraft).
+- **Input Overlay:** Plugin simples para OBS Studio em C++ que mostra teclas e cliques do mouse na tela.
+- **RPG System:** App em Electron para ajudar a organizar fichas e rolagens de RPG de mesa.
+- **Mods e scripts:** Pequenos utilitários para jogos.
 
 ---
 
