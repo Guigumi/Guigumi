@@ -13,13 +13,14 @@ Sou iniciante e não sou programador de formação, então vou aprendendo na pr�
 
 ---
 
-### ✦ Exemplo de Profile da Luna
+### ✦ Visual da Luna
 
-Um exemplo simples da identidade visual que montei para o perfil do bot:
+Exemplo da identidade visual com o card de link incorporado e o banner:
 
-| Ícone | Banner |
+| Link Incorporado | Banner |
 | :---: | :---: |
-| <img src="Assets/Discord-bot/Luna-Icon.png" alt="Ícone da Luna" width="180"/> | <img src="Assets/Discord-bot/Luna-Banner.png" alt="Banner da Luna" width="320"/> |
+| <img src="Assets/Discord-bot/Luna-Embed.png" alt="Link Incorporado Luna" width="380"/> | <img src="Assets/Discord-bot/Server-Banner.png" alt="Banner Luna" width="380"/> |
+
 
 ---
 
