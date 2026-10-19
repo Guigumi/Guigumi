@@ -1,41 +1,32 @@
-# Ayoooooo 💚
-Estudo **Design** e no tempo livre desenvolvo um bot e outros projetos por curiosidade (*vibe-coding*).
-Sou iniciante e não sou programador de formação, então vou aprendendo na prática enquanto crio as identidades visuais e ferramentas para as minhas próprias coisas.
+<div align="center">
+  <h1>Ayoooooo 💚</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&height=45&lines=Sempre+jogando+e+escutando+musica;Construindo+meus+projetos;Opensource+sempre+e+a+primeira+op%C3%A7%C3%A3o" alt="Sempre jogando e escutando musica · Construindo meus projetos · Opensource sempre e a primeira opção" />
+  <br /><br />
+  <a href="https://lunagg.com.br"><img src="https://img.shields.io/badge/lunagg.com.br-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22C55E" alt="Website" /></a>
+  <a href="https://discord.com/oauth2/authorize?client_id=1318004374123053167"><img src="https://img.shields.io/badge/Adicionar_Bot-0D1117?style=for-the-badge&logo=discord&logoColor=22C55E" alt="Adicionar Bot" /></a>
+</div>
+
+## ✦ Sobre
+
+Amo jogos e musicas, estudo design e faço meus projetos quando livre.
+
+Redes: [![Instagram](https://img.shields.io/badge/--0D1117?style=flat-square&logo=instagram&logoColor=22C55E)](https://www.instagram.com/guigumi.xp/) [![X](https://img.shields.io/badge/--0D1117?style=flat-square&logo=x&logoColor=22C55E)](https://x.com/guigumi)
+
+## ✦ Specs
+
+```text
+guigumi@nobara
+  🐧  Nobara Linux 44
+  🖥️  KDE Plasma 6.7.5
+  ⌨️  konsole 26.8.1
+  🧠  12th Gen Intel(R) Core(TM) i5-1235U (4+8) @ 4.40 GHz
+  🎮  Intel Iris Xe Graphics @ 1.20 GHz
+  💾  8 GB
+```
 
 ---
 
-### ✦ Projetos
-
-- **Luna (Bot & Web):** Bot para Discord e painel web com comandos de música, moderação e utilitários, além dos cards que fiz em canvas.
-- **Input Overlay:** Plugin simples para OBS Studio em C++ que mostra teclas e cliques do mouse na tela.
-- **RPG System:** App em Electron para ajudar a organizar fichas e rolagens de RPG de mesa.
-- **Mods e scripts:** Pequenos utilitários para jogos.
-
----
-
-### ✦ Visual da Luna
-
-Exemplo da identidade visual com o card de link incorporado e o banner:
-
-| Link Incorporado | Banner |
-| :---: | :---: |
-| <img src="Assets/Discord-bot/Luna-Embed.png" alt="Link Incorporado Luna" width="380"/> | <img src="Assets/Discord-bot/Server-Banner.png" alt="Banner Luna" width="380"/> |
-
-
----
-
-### ✦ Tecnologias que venho usando
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-### ✦ Links & Recursos
-
-[![Website](https://img.shields.io/badge/Website-lunagg.com.br-1E1E1E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lunagg.com.br)
-[![Adicionar Bot](https://img.shields.io/badge/Adicionar_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1318004374123053167)
-
-> ⚠️ **Nota:** O bot e os projetos estão sempre em desenvolvimento conforme vou aprendendo coisas novas.
+<div align="center">
+  <p>⚠️ <strong>Nota:</strong> O bot e os projetos estão sempre em desenvolvimento conforme vou aprendendo coisas novas.</p>
+  <sub>Feito com 💚 por Guigumi</sub>
+</div>
